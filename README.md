@@ -1,1 +1,1 @@
-# RabbitMQ project for practice
+
