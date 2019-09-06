@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.5.5"
+    "amqplib": "^0.5.5",
+    "aws-sdk": "^2.524.0"
   }
 }
